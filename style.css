@@ -37,10 +37,10 @@ html, body {
 
 body {
   font-family: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: radial-gradient(circle at top left, #1e293b 0, #020617 40%, #000 100%);
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 60%);
   color: var(--text-main);
   min-height: 100vh;
-  line-height: 1.6;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
 
